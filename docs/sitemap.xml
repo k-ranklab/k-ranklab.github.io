@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://k-ranklab.github.io/</loc><lastmod>2026-09-01</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
+  <url><loc>https://k-ranklab.github.io/</loc><lastmod>2026-09-02</lastmod><changefreq>daily</changefreq><priority>1.0</priority></url>
   <url><loc>https://k-ranklab.github.io/about.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://k-ranklab.github.io/posts/20260902-harley.html</loc><lastmod>2026-09-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://k-ranklab.github.io/posts/20260902-golf.html</loc><lastmod>2026-09-02</lastmod><priority>0.8</priority></url>
+  <url><loc>https://k-ranklab.github.io/posts/20260902-sougou.html</loc><lastmod>2026-09-02</lastmod><priority>0.8</priority></url>
   <url><loc>https://k-ranklab.github.io/posts/20260901-harley.html</loc><lastmod>2026-09-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://k-ranklab.github.io/posts/20260901-golf.html</loc><lastmod>2026-09-01</lastmod><priority>0.8</priority></url>
   <url><loc>https://k-ranklab.github.io/posts/20260901-sougou.html</loc><lastmod>2026-09-01</lastmod><priority>0.8</priority></url>
